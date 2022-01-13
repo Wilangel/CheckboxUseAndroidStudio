@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CheckboxUse</string>
+    <string name="et1">Inserte el primer número</string>
+    <string name="et2">Inserte el segundo número</string>
+    <string name="check1">Sumar</string>
+    <string name="check2">Restar</string>
+    <string name="btn1">Calcular</string>
+    <string name="tv1">aqui se visualizará el resultado</string>
+
+</resources>
